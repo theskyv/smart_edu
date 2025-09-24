@@ -1,4 +1,5 @@
 AI智教
+<br>
 生成requirements文件时
 https://blog.csdn.net/qq_53644346/article/details/138506229?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522ea8290e3d18c717a0d2847d9d4cd4798%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=ea8290e3d18c717a0d2847d9d4cd4798&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-138506229-null-null.142^v102^pc_search_result_base7&utm_term=%E7%94%9F%E6%88%90requirements.txt%E6%96%87%E4%BB%B6&spm=1018.2226.3001.4187
 有三个方法👆csdn链接
@@ -29,7 +30,7 @@ docker run -d --add-host="host.docker.internal:host-gateway" edu_app:v4
 
 <br>
 <br>
--------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 <br>
 https://blog.csdn.net/weixin_45145684/article/details/144729149
 <img width="1488" height="641" alt="image" src="https://github.com/user-attachments/assets/a2b6d2bf-3f11-41dc-b9a3-df146a98f009" />
