@@ -3,7 +3,6 @@ from langchain_community.vectorstores.neo4j_vector import SearchType
 from langchain_core.output_parsers import JsonOutputParser, StrOutputParser
 from langchain_deepseek import ChatDeepSeek
 from langchain_huggingface import HuggingFaceEmbeddings
-from setuptools.discovery import construct_package_dir
 
 from configuration import config
 
