@@ -25,3 +25,7 @@ docker build -t edu_app:v4  .
 docker run -d --add-host="host.docker.internal:host-gateway" edu_app:v4
 
 <img width="1480" height="1236" alt="image" src="https://github.com/user-attachments/assets/e74d0048-206e-4b1f-b8de-62f6e07e566d" />
+
+
+https://blog.csdn.net/weixin_45145684/article/details/144729149
+<img width="1488" height="641" alt="image" src="https://github.com/user-attachments/assets/a2b6d2bf-3f11-41dc-b9a3-df146a98f009" />
