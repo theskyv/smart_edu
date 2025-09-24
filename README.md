@@ -15,7 +15,7 @@ pipreqs . --encoding=utf8 --force
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 
-![img.png](img.png)
+
 
 
 本地.venv环境测试好之后 构建镜像
@@ -24,3 +24,4 @@ docker build -t edu_app:v4  .
 创建并运行镜像对应的容器
 docker run -d --add-host="host.docker.internal:host-gateway" edu_app:v4
 
+<img width="1480" height="1236" alt="image" src="https://github.com/user-attachments/assets/e74d0048-206e-4b1f-b8de-62f6e07e566d" />
